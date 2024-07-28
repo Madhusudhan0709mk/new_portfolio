@@ -1,10 +1,10 @@
 {
-  "name": "Chetan",
+  "name": "Madhusudhan",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
-  "headerTaglineThree": "designer and devloper",
+  "headerTaglineTwo": "I'm Madhusudhan - curious",
+  "headerTaglineThree": "Python full stack developer3",
   "headerTaglineFour": " based in New Delhi, India.",
-  "showBlog": true,
+  "showBlog": false,
   "darkMode": true,
   "socials": [
     {
