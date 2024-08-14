@@ -95,7 +95,7 @@
       "universityPara": "2022 - 2026 BE - ECE | CGPA: 8.5  - (HOSTEL)"
     },
     "languages": ["Python","Javascript", "HTML5", "CSS","Java","C++","PHP"],
-    "frameworks": ["Django","Next.js","React","NodeJs","RestAPI","django rest framework"],
+    "frameworks": ["Django","FastAPI","Next.js","React","NodeJs","RestAPI","django rest framework"],
     "others": ["Docker","Kubernetes","CI/CD", "Azure devops", "AWS","Postman"," Git - Github"]
   }
 }
